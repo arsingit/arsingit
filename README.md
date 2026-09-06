@@ -46,8 +46,10 @@
 * 🇮🇳 **[Indian Design Patent]** **Device for Dynamic Cybersecurity Threat Detection**  
   *Patent No.:* `IN445068-001` (2025)  
   *Designers:* Akash Kumar Bhagat, Dr. Venkateswaran Radhakrishnan, Dr. Aravindan Srinivasan, Mrs. P. Mercy, Abdur Rahman Sarker, Md. Sohel Rana, Md. Sabbir Hossain
+  
+---
 
-  ### 🏆 Vendor Certifications
+### 🏆 Vendor Certifications
 
 #### ☁️ Cloud, Databases & Enterprise Infrastructure
 * 🟧 **Alibaba Cloud** | ACA Cloud Computing
@@ -103,6 +105,8 @@
 * 💾 **Microsoft AI & Data** | Azure Database Administrator Associate
 * 💾 **Microsoft AI & Data** | Azure Data Fundamentals
 * 🏢 **Microsoft Enterprise** | Microsoft 365 Fundamentals
+
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=arsingit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>

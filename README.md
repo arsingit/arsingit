@@ -33,19 +33,19 @@
 
 * 🇺🇸 **[United States Utility Patent]** **Method and System for Preventing Identity Spoofing Using Artificial Intelligence Driven Pattern Recognition**  
   *Patent No.:* `US-20250285471-A1` (2025)  
-  *Inventors:* Nithya Rekha Sivakumar, Thangavel Murugan, Abdur Rahman Sarker, Raja Varma Pamba, Mohammed Mafizul Islam, et al.
+  *Inventors:* Nithya Rekha Sivakumar, Thangavel Murugan, Abdur Rahman Sarker, Raja Varma Pamba, Mohammed Mafizul Islam, et al. | https://patents.google.com/patent/US20250285471A1
 
 * 🇩🇪 **[German Utility Patent]** **AI-Augmented Cybersecurity System for Regulatory Compliance in Energy Distribution**  
   *Patent No.:* `DE 202025104956.2` (2025)  
-  *Inventors:* Abdur Rahman Sarker, Al Ibn Sina, Mohammad Minhaz Uddin, Sadia Jaman, Mehadi Hassan Sovon, et al.
+  *Inventors:* Abdur Rahman Sarker, Al Ibn Sina, Mohammad Minhaz Uddin, Sadia Jaman, Mehadi Hassan Sovon, et al. | https://register.dpma.de/DPMAregister/pat/register?AKZ=2020251049562 
 
 * 🇬🇧 **[United Kingdom Design Patent]** **Data Processing Device for Encrypting Audio Visual Data for Privacy**  
   *Patent No.:* `GB6408955` (2024)  
-  *Designers:* Dr. Praveen Rani Venkata Satya, Kavitha Manickam, Sreejith Sreekandan Nair, Govindarajan Lakshmikanthan, Sanish Vaipel Sanu, Abdur Rahman Sarker, Mohammad Arifin Rahman Khan
+  *Designers:* Dr. Praveen Rani Venkata Satya, Kavitha Manickam, Sreejith Sreekandan Nair, Govindarajan Lakshmikanthan, Sanish Vaipel Sanu, Abdur Rahman Sarker, Mohammad Arifin Rahman Khan. | https://www.registered-design.service.gov.uk/find/6408955
 
 * 🇮🇳 **[Indian Design Patent]** **Device for Dynamic Cybersecurity Threat Detection**  
   *Patent No.:* `IN445068-001` (2025)  
-  *Designers:* Akash Kumar Bhagat, Dr. Venkateswaran Radhakrishnan, Dr. Aravindan Srinivasan, Mrs. P. Mercy, Abdur Rahman Sarker, Md. Sohel Rana, Md. Sabbir Hossain
+  *Designers:* Akash Kumar Bhagat, Dr. Venkateswaran Radhakrishnan, Dr. Aravindan Srinivasan, Mrs. P. Mercy, Abdur Rahman Sarker, Md. Sohel Rana, Md. Sabbir Hossain. | https://search.ipindia.gov.in/DesignQRStatus/PDF_Viewer.aspx?AppNo=NDQ1MDY4LTAwMQ==&CNo=MTk3MDM1
   
 ---
 
